@@ -1,0 +1,7 @@
+D:\mkm\C#\StudyC-\HelloApp\IntegerType\bin\Debug\IntegerType.exe.config
+D:\mkm\C#\StudyC-\HelloApp\IntegerType\bin\Debug\IntegerType.exe
+D:\mkm\C#\StudyC-\HelloApp\IntegerType\bin\Debug\IntegerType.pdb
+D:\mkm\C#\StudyC-\HelloApp\IntegerType\obj\Debug\IntegerType.csprojAssemblyReference.cache
+D:\mkm\C#\StudyC-\HelloApp\IntegerType\obj\Debug\IntegerType.csproj.CoreCompileInputs.cache
+D:\mkm\C#\StudyC-\HelloApp\IntegerType\obj\Debug\IntegerType.exe
+D:\mkm\C#\StudyC-\HelloApp\IntegerType\obj\Debug\IntegerType.pdb

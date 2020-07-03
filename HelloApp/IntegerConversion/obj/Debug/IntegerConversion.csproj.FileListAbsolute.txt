@@ -1,0 +1,7 @@
+D:\mkm\C#\StudyC-\HelloApp\IntegerConversion\obj\Debug\IntegerConversion.csprojAssemblyReference.cache
+D:\mkm\C#\StudyC-\HelloApp\IntegerConversion\obj\Debug\IntegerConversion.csproj.CoreCompileInputs.cache
+D:\mkm\C#\StudyC-\HelloApp\IntegerConversion\bin\Debug\IntegerConversion.exe.config
+D:\mkm\C#\StudyC-\HelloApp\IntegerConversion\bin\Debug\IntegerConversion.exe
+D:\mkm\C#\StudyC-\HelloApp\IntegerConversion\bin\Debug\IntegerConversion.pdb
+D:\mkm\C#\StudyC-\HelloApp\IntegerConversion\obj\Debug\IntegerConversion.exe
+D:\mkm\C#\StudyC-\HelloApp\IntegerConversion\obj\Debug\IntegerConversion.pdb

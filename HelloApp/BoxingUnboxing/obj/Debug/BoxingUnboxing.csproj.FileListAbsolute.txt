@@ -1,0 +1,7 @@
+D:\mkm\C#\StudyC-\HelloApp\BoxingUnboxing\bin\Debug\BoxingUnboxing.exe.config
+D:\mkm\C#\StudyC-\HelloApp\BoxingUnboxing\bin\Debug\BoxingUnboxing.exe
+D:\mkm\C#\StudyC-\HelloApp\BoxingUnboxing\bin\Debug\BoxingUnboxing.pdb
+D:\mkm\C#\StudyC-\HelloApp\BoxingUnboxing\obj\Debug\BoxingUnboxing.csprojAssemblyReference.cache
+D:\mkm\C#\StudyC-\HelloApp\BoxingUnboxing\obj\Debug\BoxingUnboxing.csproj.CoreCompileInputs.cache
+D:\mkm\C#\StudyC-\HelloApp\BoxingUnboxing\obj\Debug\BoxingUnboxing.exe
+D:\mkm\C#\StudyC-\HelloApp\BoxingUnboxing\obj\Debug\BoxingUnboxing.pdb

@@ -1,0 +1,7 @@
+D:\mkm\C#\StudyC-\HelloApp\EnumApp\bin\Debug\EnumApp.exe.config
+D:\mkm\C#\StudyC-\HelloApp\EnumApp\bin\Debug\EnumApp.exe
+D:\mkm\C#\StudyC-\HelloApp\EnumApp\bin\Debug\EnumApp.pdb
+D:\mkm\C#\StudyC-\HelloApp\EnumApp\obj\Debug\EnumApp.csprojAssemblyReference.cache
+D:\mkm\C#\StudyC-\HelloApp\EnumApp\obj\Debug\EnumApp.csproj.CoreCompileInputs.cache
+D:\mkm\C#\StudyC-\HelloApp\EnumApp\obj\Debug\EnumApp.exe
+D:\mkm\C#\StudyC-\HelloApp\EnumApp\obj\Debug\EnumApp.pdb
